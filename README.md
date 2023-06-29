@@ -451,6 +451,12 @@ out on the Avalanche Discord._
   messages, which will remain signable and in state until a refund action is
   issued)
 
+  ## Authors
+
+  Kushaal R
+
+  @kushaalrajiv@gmail.com
+
 <br>
 <br>
 <br>
