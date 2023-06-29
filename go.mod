@@ -5,7 +5,8 @@ go 1.20
 require (
 	github.com/ava-labs/avalanche-network-runner v1.4.1
 	github.com/ava-labs/avalanchego v1.10.1
-	github.com/ava-labs/hypersdk v0.0.6
+	github.com/ava-labs/hypersdk v0.0.7
+	github.com/ava-labs/hypersdk/examples/tokenvm v0.0.0-20230511233943-bdd30e00bdff
 	github.com/fatih/color v1.13.0
 	github.com/manifoldco/promptui v0.9.0
 	github.com/onsi/ginkgo/v2 v2.7.0
@@ -13,6 +14,7 @@ require (
 	github.com/prometheus/client_golang v1.14.0
 	github.com/spf13/cobra v1.6.1
 	go.uber.org/zap v1.24.0
+	golang.org/x/sync v0.1.0
 	gopkg.in/yaml.v2 v2.4.0
 )
 
@@ -127,7 +129,6 @@ require (
 	golang.org/x/exp v0.0.0-20221205204356-47842c84f3db // indirect
 	golang.org/x/mod v0.6.0 // indirect
 	golang.org/x/net v0.7.0 // indirect
-	golang.org/x/sync v0.1.0 // indirect
 	golang.org/x/sys v0.5.0 // indirect
 	golang.org/x/term v0.5.0 // indirect
 	golang.org/x/text v0.7.0 // indirect
